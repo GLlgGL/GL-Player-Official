@@ -13,7 +13,7 @@
   <a href="https://www.amazon.com/dp/B0HRMCFSRH"><img alt="Available at Amazon Appstore" width="215" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"/></a>
 </p>
 
-**GL Player** is a free IPTV player for **Android phones, tablets and Android TV / Google TV / Fire TV boxes**. Add your own M3U, Xtream Codes or STB portal playlist and enjoy live TV with a fast TV guide, catch-up, favourites, parental control and beautiful themes – all designed to be used comfortably with a TV remote.
+**GL Player** is a free IPTV player for **Android phones, tablets and Android TV / Google TV / Fire OS devices**. Add your own M3U, Xtream Codes or STB portal playlist and enjoy live TV with a fast TV guide, catch-up, favourites, parental control and beautiful themes – all designed to be used comfortably with a TV remote.
 
 ---
 
