@@ -106,7 +106,7 @@ English, Albanian, Arabic, Chinese, French, German, Hindi, Indonesian, Italian, 
 
 ## 📥 Download
 
-Available on **Google Play** (phones, tablets & Android TV) and the **Amazon Appstore** (Fire TV).
+Available on **Google Play** (phones, tablets & Android TV) and the **Amazon Appstore** (Fire OS).
 
 <p align="center">
   <a href="PLAY_STORE_LINK"><img alt="Get it on Google Play" width="250" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
