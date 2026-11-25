@@ -1,10 +1,10 @@
 # 📺 GL Player – IPTV Player for Phone & Android TV
 
 <p align="center">
-  <img alt="Free" src="https://img.shields.io/badge/Free-2ea44f?style=for-the-badge"/>
-  <img alt="No ads" src="https://img.shields.io/badge/No_ads-2ea44f?style=for-the-badge"/>
-  <img alt="No tracking" src="https://img.shields.io/badge/No_tracking-2ea44f?style=for-the-badge"/>
-  <img alt="No account" src="https://img.shields.io/badge/No_account-2ea44f?style=for-the-badge"/>
+![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-black?logo=android&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android%20TV-supported-black?logo=androidtv&logoColor=white)
+![15 languages](https://img.shields.io/badge/languages-15-black)
+![Free](https://img.shields.io/badge/price-free-black)
 </p>
 
 <p align="center">
