@@ -1,10 +1,10 @@
 # 📺 GL Player – IPTV Player for Phone & Android TV
 
 <p align="center">
-![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-black?logo=android&logoColor=white)
-![Android TV](https://img.shields.io/badge/Android%20TV-supported-black?logo=androidtv&logoColor=white)
-![15 languages](https://img.shields.io/badge/languages-15-black)
-![Free](https://img.shields.io/badge/price-free-black)
+  <img alt="Android 7.0+" src="https://img.shields.io/badge/Android-7.0%2B-black?logo=android&logoColor=white"/>
+  <img alt="Android TV" src="https://img.shields.io/badge/Android%20TV-supported-black?logo=androidtv&logoColor=white"/>
+  <img alt="17 languages" src="https://img.shields.io/badge/languages-17-black"/>
+  <img alt="Free" src="https://img.shields.io/badge/price-free-black"/>
 </p>
 
 <p align="center">
@@ -12,6 +12,9 @@
   <br/>
   <a href="https://www.amazon.com/dp/B0HRMCFSRH"><img alt="Available at Amazon Appstore" width="215" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"/></a>
 </p>
+
+> [!NOTE]
+> GL Player is a **player only**. It does not include, sell or link to any channels or content. You add your own playlists from your own provider.
 
 **GL Player** is a free IPTV player for **Android phones, tablets and Android TV / Google TV / Fire OS devices**. Add your own M3U, Xtream Codes or STB portal playlist and enjoy live TV with a fast TV guide, catch-up, favourites, parental control and beautiful themes – all designed to be used comfortably with a TV remote.
 
