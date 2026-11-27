@@ -12,7 +12,7 @@
   <br/>
   <a href="https://www.amazon.com/dp/B0HRMCFSRH"><img alt="Available at Amazon Appstore" width="215" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"/></a>
   <br/>
-  <a href="https://appgallery.huawei.com/#/app/C119865101"><img alt="Explore it on AppGallery" width="215" src="images/appgallery-badge.svg"/></a>
+  <a href="https://appgallery.huawei.com/#/app/C119865101"><img alt="Explore it on AppGallery" width="215" src="images/appgallery.svg"/></a>
 </p>
 
 > [!NOTE]
@@ -123,7 +123,7 @@ Available on **Google Play** (phones, tablets & Android TV), the **Amazon Appsto
   <br/>
   <a href="https://www.amazon.com/dp/B0HRMCFSRH"><img alt="Available at Amazon Appstore" width="215" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"/></a>
   <br/>
-  <a href="https://appgallery.huawei.com/#/app/C119865101"><img alt="Explore it on AppGallery" width="215" src="images/appgallery-badge.svg"/></a>
+  <a href="https://appgallery.huawei.com/#/app/C119865101"><img alt="Explore it on AppGallery" width="215" src="images/appgallery.svg"/></a>
 </p>
 
 ---
