@@ -11,6 +11,8 @@
   <a href="PLAY_STORE_LINK"><img alt="Get it on Google Play" width="250" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
   <br/>
   <a href="https://www.amazon.com/dp/B0HRMCFSRH"><img alt="Available at Amazon Appstore" width="215" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"/></a>
+  <br/>
+  <a href="https://appgallery.huawei.com/#/app/C119865101"><img alt="Explore it on AppGallery" width="215" src="images/appgallery-badge.svg"/></a>
 </p>
 
 > [!NOTE]
@@ -114,12 +116,14 @@ English, Albanian, Arabic, Chinese, French, German, Hindi, Indonesian, Italian, 
 
 ## 📥 Download
 
-Available on **Google Play** (phones, tablets & Android TV) and the **Amazon Appstore** (Fire OS).
+Available on **Google Play** (phones, tablets & Android TV), the **Amazon Appstore** (Fire OS) and **Huawei AppGallery**.
 
 <p align="center">
   <a href="PLAY_STORE_LINK"><img alt="Get it on Google Play" width="250" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
   <br/>
   <a href="https://www.amazon.com/dp/B0HRMCFSRH"><img alt="Available at Amazon Appstore" width="215" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png"/></a>
+  <br/>
+  <a href="https://appgallery.huawei.com/#/app/C119865101"><img alt="Explore it on AppGallery" width="215" src="images/appgallery-badge.svg"/></a>
 </p>
 
 ---
